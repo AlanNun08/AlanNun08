@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alan Nunez.
+I’m currently learning Javascript taught by Tech Elevator
+Fun fact: One of my hobbies this year will be to learn how to program Raspberry Pi to make smart mirrors and "magical" smart wands
